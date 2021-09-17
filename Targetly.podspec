@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name = "Targetly-iOS"
+  spec.name = "Targetly"
   spec.version = "0.1.0"
   spec.license = { :type => "MIT", :file => "LICENSE" }
   spec.summary = "Targetly is a powerful and pure Swift implemented library for personalization of push notifications."
