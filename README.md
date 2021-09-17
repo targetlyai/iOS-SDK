@@ -10,5 +10,5 @@ Targetly is a powerful and pure Swift implemented library for personalisation of
 To use [CocoaPods](https://cocoapods.org) just add this to your Podfile:
 
 ``` Swift
-pod 'Targetly'
+pod 'Targetly-iOS'
 ```
